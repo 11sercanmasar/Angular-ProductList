@@ -1,10 +1,10 @@
 # ProductList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+This project is an application that can be viewed as a owned list and also edit and delete operations can be done. The data is kept in json-server and called with API requests and listed in the UI. It has a visually simple structure and Angular Material is used in the creation of the tables.
 
 ## Getting started
 First `npm install` before do anything.
-Then `json-server --watch db.json`
+Then `json-server --watch db.json` and it runs `http://localhost:3000/productList`
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 
