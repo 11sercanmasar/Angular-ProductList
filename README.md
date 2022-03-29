@@ -2,6 +2,14 @@
 
 This project is an application that can be viewed as a owned list and also edit and delete operations can be done. The data is kept in json-server and called with API requests and listed in the UI. It has a visually simple structure and Angular Material is used in the creation of the tables.
 
+## View
+
+
+
+https://user-images.githubusercontent.com/93815030/160556507-ff9649e6-a7f3-4586-bf08-f5c82839848e.mp4
+
+
+
 ## Getting started
 First `npm install` before do anything.
 Then `json-server --watch db.json` and it runs `http://localhost:3000/productList`
